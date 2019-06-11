@@ -1,8 +1,50 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/44882080/59285083-af301a80-8c6d-11e9-81f0-2f5ee997d586.png)
+[![HitCount](http://hits.dwyl.io/taiyrbegeyev/weather-app.svg)](http://hits.dwyl.io/taiyrbegeyev/weather-app)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+![GitHub followers](https://img.shields.io/github/followers/taiyrbegeyev.svg?style=social)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+* [About the Project](#about-the-project)
+    * [Built with](#built-with)
+* [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+    * [Run](#run)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+
+## About the Project
+![Project Screen Shot](https://user-images.githubusercontent.com/44882080/59286536-35e5f700-8c70-11e9-9a67-51310ba7aea6.png)
+
+It is my first React project. As you clearly see from the screen shot above, it is the weather app that fetches API from [openweathermap](https://openweathermap.org/api). A user is asked to input a city and a country he or she wants to get information about. In fact, the temperature, humidity and conditions are displayed to the user.
+
+### Built with
+* [Bootstrap](https://getbootstrap.com)
+* [React](https://reactjs.org/)
+
+## Getting started
+
+### Prerequisites
+* node    
+* npm
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+1. Clone the repo
+```sh
+git clone https:://github.com/taiyrbegeyev/weather-app.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
+
+### Run
 
 ### `npm start`
 
@@ -43,26 +85,29 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contributing
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### Analyzing the Bundle Size
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Making a Progressive Web App
+## License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Distributed under the MIT License. See `LICENSE` for more information.
 
-### Advanced Configuration
+## Contact
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Taiyr Begeyev - taiyrbegeyev@gmail.com - 
 
-### Deployment
+Project Link: [https://github.com/taiyrbegeyev/weather-app](https://github.com/taiyrbegeyev/weather-app)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/taiyrbegeyev
